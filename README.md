@@ -13,11 +13,9 @@ Proficient in leveraging AI technologies to solve problems.
 
 
 #### 🔗 **Personal Links**
-- [🏠 https://damidare.com/](https://www.damidare.com)
 - [🔗 Github](https://github.com/daredammy/)
 - [📄 PDF Resume](./Dami_Resume.pdf)
 - [💼 LinkedIn](https://www.linkedin.com/in/damidare/)
-- [📸 Instagram](https://www.instagram.com/iamdamidare/)
 
 #### 💼 **Current Company**
 - **Nightly Traffic**: Helping people find their tribe through events
@@ -32,11 +30,12 @@ Proficient in leveraging AI technologies to solve problems.
 
 #### 🛠 **Technologies**
 - 🧠 Generative AI
+- ⚙️ Backend Development
+- 💻 Full-Stack Development
 - 📱 Flutter
 - 🔐 OAuth
 - 🗣️ Large Language Models (LLM)
 - 🐍 Python
-- 💻 Full-Stack Development
 - [🔗 More on LinkedIn](https://www.linkedin.com/in/damidare)
 
 
